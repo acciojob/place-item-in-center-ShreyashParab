@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.container{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height: 100vh
+}
+
+.item-1{
+  border:1px solid black;
+  padding:10px;
+}
